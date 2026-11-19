@@ -1,104 +1,148 @@
-<!--
-  Template de README de perfil do GitHub
-  Como usar:
-  1. Crie um repositório com o MESMO nome do seu usuário (ex.: github.com/SEU_USUARIO/SEU_USUARIO)
-  2. Cole este arquivo como README.md nele
-  3. Substitua SEU_USUARIO, SEU_NOME e os links pelos seus
-  4. Edite a lista de ícones em "?i=" — os nomes disponíveis estão em https://skillicons.dev
--->
-
-<h1 align="center">Olá, Andrew aqui!</h1>
-
+<!-- Header -->
 <p align="center">
-  Desenvolvedor Fullstack · Java/Spring/Quarkus · Vue/TypeScript · Go
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:172033,100:2e5bea&height=190&section=header&text=Andrew&fontSize=64&fontColor=ffffff&fontAlignY=40" alt="Dev Andrew"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andrewgpsilva/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/AndrewGPFranco"><img src="https://img.shields.io/github/followers/AndrewGPFranco?label=Seguidores&style=for-the-badge&logo=github&color=24292e" alt="Seguidores"/></a>
+  <a href="https://github.com/AndrewGPFranco">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=2E5BEA&center=true&vCenter=true&width=520&lines=Desenvolvedor+Full-stack;Java+%C2%B7+Spring+%C2%B7+Quarkus;Vue.js+%C2%B7+TypeScript;Sistemas+distribu%C3%ADdos+e+automa%C3%A7%C3%A3o;Me+aprofundando+em+Go" alt="Desenvolvedor Full-stack · Java · Spring · Quarkus · Vue.js · TypeScript"/>
+  </a>
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/andrewgpsilva/"><img src="https://img.shields.io/badge/LinkedIn-172033?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:agpfdevfull@gmail.com"><img src="https://img.shields.io/badge/E--mail-172033?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
+  <a href="https://github.com/AndrewGPFranco?tab=followers"><img src="https://img.shields.io/github/followers/AndrewGPFranco?label=Seguidores&style=for-the-badge&logo=github&color=2e5bea&labelColor=172033" alt="Seguidores"/></a>
+</p>
+
+<br/>
 
 ## Sobre mim
 
-- Atualmente trabalhando em **...**
-- Me aprofundando em **Go**
-- Curiosidade: uso **Neovim** e **Fedora** no dia a dia
+Sou **desenvolvedor full-stack** e trabalho principalmente com **Java e Spring** no backend e **Vue.js** no frontend.
 
----
+Hoje sou **Analista de Sistemas na Élin Duxus**, onde comecei como estagiário. Fora do trabalho, construo meus próprios projetos e estou me aprofundando em **Go**.
 
-## Tecnologias
+<table>
+  <tr>
+    <td>📍 <b>São Paulo, Brasil</b></td>
+    <td>💻 <b>Remoto</b></td>
+    <td>🎯 <b>Backend e sistemas distribuídos</b></td>
+    <td>🐧 <b>Fedora + Intellij + Neovim</b></td>
+  </tr>
+</table>
 
-### Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,go&perline=10" alt="Java, Spring, Go"/>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus"/>
-  <img src="https://img.shields.io/badge/Go-me%20aprofundando-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go (me aprofundando)"/>
-</p>
+<br/>
 
-### Dados & Cache
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,redis&perline=10" alt="PostgreSQL, Redis"/>
-  <img height="48" src="https://pbs.twimg.com/profile_images/568493154500747264/xTBxO73F_400x400.png" alt="Apache Ignite"/>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Apache%20Ignite-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Ignite"/>
-</p>
+## Trajetória
 
-### Frontend & Testes
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,ts&perline=10" alt="Vue, TypeScript"/>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logoColor=white" alt="Playwright"/>
-</p>
+| Período | Cargo | Empresa |
+| :-- | :-- | :-- |
+| **2026 → hoje** | **Analista de Sistemas Jr** &nbsp;![Atual](https://img.shields.io/badge/atual-2e5bea?style=flat-square) | Élin Duxus Consultoria |
+| 2025 → 2026 | Programador | Élin Duxus Consultoria |
+| 2024 → 2025 | Estágio, Desenvolvedor Full-stack | Élin Duxus Consultoria |
 
-### DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git&perline=10" alt="Docker, CI/CD, Git"/>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
-</p>
+🎓 **Análise e Desenvolvimento de Sistemas** — Centro Universitário FAM (2023 a 2025)
 
-<!--
-  Alternativa em formato de "badges" (shields.io), caso prefira:
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  Cores e nomes de logos: https://simpleicons.org
--->
+<br/>
 
----
+## Stack
 
-## Estatísticas
+<sub>Organizada pelo caminho que uma requisição percorre.</sub>
+
+<table>
+  <tr>
+    <td width="150"><b>Interface</b></td>
+    <td><img height="44" src="https://skillicons.dev/icons?i=vue,ts,nuxtjs" alt="Vue.js, TypeScript, Nuxt"/></td>
+  </tr>
+  <tr>
+    <td><b>Serviços</b></td>
+    <td>
+      <img height="44" src="https://skillicons.dev/icons?i=java,spring,go" alt="Java, Spring, Go"/>
+      <img height="44" src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus"/>
+      <br/><sub>Go: me aprofundando</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Mensageria</b></td>
+    <td><img height="44" src="https://skillicons.dev/icons?i=rabbitmq,kafka" alt="RabbitMQ, Apache Kafka"/></td>
+  </tr>
+  <tr>
+    <td><b>Cache</b></td>
+    <td>
+      <img height="44" src="https://skillicons.dev/icons?i=redis" alt="Redis"/>
+      <img height="44" src="https://img.shields.io/badge/Apache%20Ignite-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Ignite"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Dados</b></td>
+    <td>
+      <img height="44" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/>
+      <img height="44" src="https://img.shields.io/badge/ArcadeDB-5B34B0?style=for-the-badge&logoColor=white" alt="ArcadeDB"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Plataforma</b></td>
+    <td><img height="44" src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git" alt="Docker, Kubernetes, CI/CD, Git"/></td>
+  </tr>
+  <tr>
+    <td><b>Automação</b></td>
+    <td><img height="44" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/></td>
+  </tr>
+</table>
+
+<br/>
+
+## Projetos pessoais
+
+<sub>Código privado — os três produtos em que mais investi.</sub>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>FinanceHub</h3>
+      <img src="https://img.shields.io/badge/em%20produção-1f9d63?style=flat-square" alt="Em produção"/>
+      <p>Organização das finanças pessoais em um só lugar, já em uso em produção.</p>
+      <sub>Java · Spring · Thymeleaf · PostgreSQL</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Workhub</h3>
+      <img src="https://img.shields.io/badge/em%20evolução-2e5bea?style=flat-square" alt="Em evolução"/>
+      <p>Ferramenta de produtividade para o dia a dia, com notas e planejamento semanal.</p>
+      <sub>Java · Spring · Vue.js · PostgreSQL</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Leitor de mangás</h3>
+      <img src="https://img.shields.io/badge/pessoal-5e6878?style=flat-square" alt="Pessoal"/>
+      <p>Aplicação para ler mangás, pensada para uma leitura fluida capítulo a capítulo.</p>
+      <sub>Java · Spring · Vue.js · PostgreSQL</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AndrewGPFranco&show_icons=true&hide_border=true&locale=pt-br&bg_color=00000000&title_color=7c9bff&icon_color=7c9bff&text_color=e6eaf2&rank_icon=github"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=AndrewGPFranco&show_icons=true&hide_border=true&locale=pt-br&bg_color=00000000&title_color=2e5bea&icon_color=2e5bea&text_color=172033&rank_icon=github" alt="Estatísticas do GitHub"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewGPFranco&layout=compact&hide_border=true&locale=pt-br&bg_color=00000000&title_color=7c9bff&text_color=e6eaf2"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewGPFranco&layout=compact&hide_border=true&locale=pt-br&bg_color=00000000&title_color=2e5bea&text_color=172033" alt="Linguagens mais usadas"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AndrewGPFranco&locale=pt_BR&hide_border=true&background=00000000&ring=7c9bff&fire=7c9bff&currStreakLabel=7c9bff&sideNums=e6eaf2&currStreakNum=e6eaf2&sideLabels=94a0b4&dates=94a0b4&stroke=2c3546"/>
+    <img src="https://streak-stats.demolab.com?user=AndrewGPFranco&locale=pt_BR&hide_border=true&background=00000000&ring=2e5bea&fire=2e5bea&currStreakLabel=2e5bea&sideNums=172033&currStreakNum=172033&sideLabels=5e6878&dates=5e6878&stroke=c9d1dc" alt="Sequência de contribuições"/>
+  </picture>
 </p>
 
----
-
-## Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [nome-do-projeto](https://github.com/SEU_USUARIO/nome-do-projeto) | Breve descrição do que ele faz | Go · PostgreSQL · Docker |
-| [outro-projeto](https://github.com/SEU_USUARIO/outro-projeto) | Breve descrição do que ele faz | Java · Spring Boot |
+<!-- Footer -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2e5bea,100:172033&height=110&section=footer" alt=""/>
+</p>
