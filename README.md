@@ -23,24 +23,22 @@ Sou **desenvolvedor full-stack** e trabalho principalmente com **Java e Spring**
 
 Hoje sou **Analista de Sistemas na Élin Duxus**, onde comecei como estagiário. Fora do trabalho, construo meus próprios projetos e estou me aprofundando em **Go**.
 
-<table>
-  <tr>
-    <td>📍 <b>São Paulo, Brasil</b></td>
-    <td>💻 <b>Remoto</b></td>
-    <td>🎯 <b>Backend e sistemas distribuídos</b></td>
-    <td>🐧 <b>Fedora + Intellij + Neovim</b></td>
-  </tr>
-</table>
+📍 São Paulo, Brasil &nbsp;·&nbsp; 💻 Remoto &nbsp;·&nbsp; 🎯 Backend e sistemas distribuídos &nbsp;·&nbsp; 🐧 Fedora + IntelliJ + Neovim
 
 <br/>
 
 ## Trajetória
 
-| Período | Cargo | Empresa |
-| :-- | :-- | :-- |
-| **2026 → hoje** | **Analista de Sistemas Jr** &nbsp;![Atual](https://img.shields.io/badge/atual-2e5bea?style=flat-square) | Élin Duxus Consultoria |
-| 2025 → 2026 | Programador | Élin Duxus Consultoria |
-| 2024 → 2025 | Estágio, Desenvolvedor Full-stack | Élin Duxus Consultoria |
+**Élin Duxus Consultoria**
+
+🔵 **Analista de Sistemas Jr** &nbsp;![Atual](https://img.shields.io/badge/atual-2e5bea?style=flat-square)<br/>
+│ &nbsp;<sub>2026 → hoje</sub><br/>
+│<br/>
+⚪ **Programador**<br/>
+│ &nbsp;<sub>2025 → 2026</sub><br/>
+│<br/>
+⚪ **Estágio, Desenvolvedor Full-stack**<br/>
+&nbsp;&nbsp;&nbsp; <sub>2024 → 2025</sub>
 
 🎓 **Análise e Desenvolvimento de Sistemas** — Centro Universitário FAM (2023 a 2025)
 
@@ -48,20 +46,24 @@ Hoje sou **Analista de Sistemas na Élin Duxus**, onde comecei como estagiário.
 
 ## Stack
 
-<sub>Organizada pelo caminho que uma requisição percorre.</sub>
-
 <table>
   <tr>
-    <td width="150"><b>Interface</b></td>
-    <td><img height="44" src="https://skillicons.dev/icons?i=vue,ts,nuxtjs" alt="Vue.js, TypeScript, Nuxt"/></td>
-  </tr>
-  <tr>
-    <td><b>Serviços</b></td>
+    <td width="150"><b>Linguagens</b></td>
     <td>
-      <img height="44" src="https://skillicons.dev/icons?i=java,spring,go" alt="Java, Spring, Go"/>
-      <img height="44" src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus"/>
+      <img height="44" src="https://skillicons.dev/icons?i=java,ts,go" alt="Java, TypeScript, Go"/>
       <br/><sub>Go: me aprofundando</sub>
     </td>
+  </tr>
+  <tr>
+    <td><b>Back-end</b></td>
+    <td>
+      <img height="44" src="https://skillicons.dev/icons?i=spring" alt="Spring"/>
+      <img height="44" src="assets/icons/quarkus.svg" alt="Quarkus" title="Quarkus"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Front-end</b></td>
+    <td><img height="44" src="https://skillicons.dev/icons?i=vue,nuxtjs" alt="Vue.js, Nuxt"/></td>
   </tr>
   <tr>
     <td><b>Mensageria</b></td>
@@ -71,23 +73,23 @@ Hoje sou **Analista de Sistemas na Élin Duxus**, onde comecei como estagiário.
     <td><b>Cache</b></td>
     <td>
       <img height="44" src="https://skillicons.dev/icons?i=redis" alt="Redis"/>
-      <img height="44" src="https://img.shields.io/badge/Apache%20Ignite-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Ignite"/>
+      <img height="44" src="assets/icons/ignite.svg" alt="Apache Ignite" title="Apache Ignite"/>
     </td>
   </tr>
   <tr>
-    <td><b>Dados</b></td>
+    <td><b>Banco de dados</b></td>
     <td>
       <img height="44" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/>
-      <img height="44" src="https://img.shields.io/badge/ArcadeDB-5B34B0?style=for-the-badge&logoColor=white" alt="ArcadeDB"/>
+      <img height="44" src="assets/icons/arcadedb.svg" alt="ArcadeDB" title="ArcadeDB"/>
     </td>
   </tr>
   <tr>
-    <td><b>Plataforma</b></td>
+    <td><b>DevOps</b></td>
     <td><img height="44" src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git" alt="Docker, Kubernetes, CI/CD, Git"/></td>
   </tr>
   <tr>
-    <td><b>Automação</b></td>
-    <td><img height="44" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/></td>
+    <td><b>Testes e automação</b></td>
+    <td><img height="44" src="assets/icons/playwright.svg" alt="Playwright" title="Playwright"/></td>
   </tr>
 </table>
 
@@ -97,28 +99,17 @@ Hoje sou **Analista de Sistemas na Élin Duxus**, onde comecei como estagiário.
 
 <sub>Código privado — os três produtos em que mais investi.</sub>
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>FinanceHub</h3>
-      <img src="https://img.shields.io/badge/em%20produção-1f9d63?style=flat-square" alt="Em produção"/>
-      <p>Organização das finanças pessoais em um só lugar, já em uso em produção.</p>
-      <sub>Java · Spring · Thymeleaf · PostgreSQL</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Workhub</h3>
-      <img src="https://img.shields.io/badge/em%20evolução-2e5bea?style=flat-square" alt="Em evolução"/>
-      <p>Ferramenta de produtividade para o dia a dia, com notas e planejamento semanal.</p>
-      <sub>Java · Spring · Vue.js · PostgreSQL</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Leitor de mangás</h3>
-      <img src="https://img.shields.io/badge/pessoal-5e6878?style=flat-square" alt="Pessoal"/>
-      <p>Aplicação para ler mangás, pensada para uma leitura fluida capítulo a capítulo.</p>
-      <sub>Java · Spring · Vue.js · PostgreSQL</sub>
-    </td>
-  </tr>
-</table>
+#### FinanceHub &nbsp;<img src="https://img.shields.io/badge/em%20produção-1f9d63?style=flat-square" alt="Em produção"/>
+Organização das finanças pessoais em um só lugar, já em uso em produção.<br/>
+<sub>Java · Spring · Thymeleaf · PostgreSQL</sub>
+
+#### Workhub &nbsp;<img src="https://img.shields.io/badge/em%20evolução-2e5bea?style=flat-square" alt="Em evolução"/>
+Ferramenta de produtividade para o dia a dia, com notas e planejamento semanal.<br/>
+<sub>Java · Spring · Vue.js · PostgreSQL · Redis</sub>
+
+#### Leitor de mangás &nbsp;<img src="https://img.shields.io/badge/pessoal-5e6878?style=flat-square" alt="Pessoal"/>
+Aplicação para ler mangás, pensada para uma leitura fluida capítulo a capítulo.<br/>
+<sub>Java · Spring · Vue.js · PostgreSQL</sub>
 
 <br/>
 
